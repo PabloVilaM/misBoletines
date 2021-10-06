@@ -1,2 +1,2 @@
 # misBoletines
-Boletines modulo PRO
+Boletines modulo PROGRAMACION
